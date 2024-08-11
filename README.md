@@ -1,4 +1,7 @@
-## Hi there 👋
+## Buenas buenas
+
+Quiero trabajar en videojuegos y estoy estudiando para lograrlo.
+Mis principal hobbie es videojuegos :).
 
 <!--
 **DiegoEudave/DiegoEudave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
